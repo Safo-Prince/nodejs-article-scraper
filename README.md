@@ -18,7 +18,7 @@ To run this script, you need to have Node.js installed on your machine. You can 
 3. Optionally, you can uncomment and modify the `scrapeImageFromArticle` function to scrape images from specific article URLs.
 4. Save the changes to the script file.
 
-To run the script, use the following command:
+To run the script, use the  command below:
 
 
 The script will start scraping articles from the specified website and display the results in the console.
